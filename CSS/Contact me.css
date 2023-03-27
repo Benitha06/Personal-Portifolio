@@ -138,13 +138,11 @@ button {
 .contacts ul {
     list-style: none;
 }
-.contacts span {
+.contacts i {
     font-size: larger;
     background-color:rgb(23, 22, 24) ;
     border-color: rgb(48, 161, 231) ;
     color: rgb(48, 161, 231);
-    width: 100px;
-    height: 70px;
     padding-right: 3%;
 }
 .me {

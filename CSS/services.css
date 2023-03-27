@@ -123,6 +123,9 @@ button {
     margin-left: 10%;
     margin-right: 5%;
 }
+.jobs i {
+    color: white;
+}
 
 h2 span {
     color: white;

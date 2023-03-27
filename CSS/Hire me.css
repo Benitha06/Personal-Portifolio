@@ -83,8 +83,7 @@ h1 {
     font-family: roboto;
     list-style: none ;
 }
-.Resume span {
-    font-size: small;
+.Resume i {
     padding-right: 1%;
     color: rgb(48, 161, 231);
 }
@@ -96,6 +95,12 @@ h1 {
     display: flex;
     gap: 200px;
     margin-left: 40px;
+}
+.tu ul {
+    margin-left: -3%;
+}
+.tu {
+    margin-left: -10%;
 }
 
 .footer {
@@ -118,9 +123,8 @@ h1 {
     margin-left: 40px;
     font-size: x-large;
 }
-span {
-    font-size: x-large ;
-    margin-left: 1%;
+i {
+    font-size: medium;
 }
 
 @media screen  and (max-width: 830px){
@@ -200,8 +204,7 @@ span {
         list-style: none ;
         font-size: xx-large;
     }
-    .Resume span {
-        font-size: small;
+    .Resume i {
         padding-right: 1%;
         color: rgb(48, 161, 231);
     }
@@ -235,9 +238,8 @@ span {
         margin-left: 40px;
         font-size: x-large;
     }
-    span {
-        font-size: x-large ;
-        margin-left: 1%;
-    }
+    i {
+        font-size: medium ;
+           }
     
 }

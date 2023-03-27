@@ -232,7 +232,6 @@ button {
 }
 .skills ul {
     padding-left: 80px;
-    list-style: circle;
     list-style: none;
 }
 .border {
@@ -242,19 +241,19 @@ button {
     margin-left: 0px;
 }
 
-.social ul span {
-    font-size: small;
+.social ul i {
+    font-size: medium;
     padding-right: 1%;
     color: rgb(48, 161, 231);
 }
-.degree span {
-    font-size: small;
+.degree i {
+    font-size: medium;
     padding-right: 1%;
     color: rgb(48, 161, 231);
 }
 
-.age span {
-    font-size: small;
+.age i {
+    font-size: medium;
     padding-right: 1%;
     color: rgb(48, 161, 231);
 }
@@ -376,8 +375,9 @@ button {
         margin-top: 10px;
         margin-left: 60px;
     } 
-    .more p span {
+    .more p i {
         color: rgb(48, 161, 231);
+        font-size: large;
         
     }
     .more {
