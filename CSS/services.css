@@ -88,15 +88,13 @@ button {
     color: white;
     border: none;
 }
-.ton {
-    padding-left: 35%;
-}
 .ton :hover {
-
     background-color: white;
     color: rgb(48, 161, 231);
     transition: 3s;
-
+}
+.ton {
+    padding-left: 130px;
 }
 
 .design {
@@ -131,11 +129,13 @@ h2 span {
     color: white;
 }
 
+
 @media screen and (max-width:830px) {
 
     h2 {
         
         color: black;
+        font-size: xx-large;
         padding-left: 5px;
     }
     .logo {
@@ -147,7 +147,7 @@ h2 span {
         color: white;
         font-family: merienda;
         font-weight: 300;
-        font-size: x-small;
+        font-size: medium;
         padding-left: 2px;
     }
     .list ul li {
